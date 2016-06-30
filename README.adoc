@@ -1,0 +1,1 @@
+A very simple Gradle project which builds a WAR and packs it into an EAR. Use the `war` or `ear` task as appropriate.
